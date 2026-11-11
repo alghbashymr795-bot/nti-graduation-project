@@ -1,0 +1,6 @@
+{
+  "name": "MediCare+ AI Medication Reminder & Management System",
+  "description": "Comprehensive full-stack medication management and reminder system featuring smart audio-visual alarms for sleeping patients, persistent database, caregiver monitoring, Gemini OCR prescription scanning, and Medi AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
